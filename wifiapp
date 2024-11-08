@@ -23,7 +23,7 @@
   "native_counter": "1",
   "banner_counter": "1",
   "reward_counter": "1",
-  "back_interstitial_counter": "1",
+  "back_interstitial_counter": "0",
   "customads": "0",
   "customads_gif": "0",
   "customads_link": "0",
