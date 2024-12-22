@@ -13,7 +13,7 @@
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "back_ads": "yes",
   "ads_reward": "Yes",
-  "ads_exit": "Yes",
+  "ads_exit": "No",
   "app_opentime": "0",
   "app_openFirsttime": "1",
   "background_color_yes_no": "1",
